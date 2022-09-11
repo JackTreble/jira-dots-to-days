@@ -7,7 +7,7 @@ This extension replaces the `Days in column` dots indicator on Jira tickets with
 
 ## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+[**Chrome** extension](https://chrome.google.com/webstore/detail/jira-dots-to-days/dcanoegmldaongomhpnfmeejnpkebhmd)
 
 ## Contribution
 
